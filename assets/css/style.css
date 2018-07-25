@@ -1,5 +1,6 @@
 body {
     font-family: 'Permanent Marker', cursive;
+    overflow-x: hidden;
 }
 
 .brand-logo {
@@ -115,6 +116,10 @@ nav .sidenav-trigger i {
     }
     body {
         margin: 0 auto;
+    }
+    .cont-footer {
+        background: white;
+        position: inherit;
     }
 }
 
