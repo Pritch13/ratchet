@@ -1,0 +1,49 @@
+body {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.brand-logo {
+    margin-left: 5px;
+}
+
+nav {
+    background: white;
+    border-bottom: solid #454545 5px;
+}
+
+nav ul a {
+    color: #454545;
+}
+
+nav .brand-logo {
+    color: #454545;
+}
+
+.section {
+    text-align: center;
+    border-bottom: solid #454545 5px;
+    border-top: solid #454545 5px;
+    background-color: #454545;
+}
+
+.logo {
+    width: 100%;
+}
+
+.parapic {
+    width: 80%;
+}
+
+i {
+    font-size: 65px;
+    margin:0 2%;
+    margin-bottom: 2%;
+}
+
+i:hover {
+    color: gray;
+}
+.soclinks {
+    display: block;
+    margin: 0 auto;
+}
