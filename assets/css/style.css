@@ -63,3 +63,25 @@ a{
 footer {
     text-align: center;
 }
+
+.cont-footer {
+    background: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.contactpage {
+    background: url('../owenbg.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+form {
+background: white;
+margin: 0 auto;
+padding: 0 5%;
+padding-bottom: 3%;
+}
