@@ -118,8 +118,7 @@ nav .sidenav-trigger i {
         margin: 0 auto;
     }
     .cont-footer {
-        background: white;
-        position: inherit;
+        visibility: hidden;
     }
 }
 
