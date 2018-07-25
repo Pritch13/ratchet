@@ -13,6 +13,7 @@ nav {
 
 nav ul a {
     color: #454545;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 nav .brand-logo {
@@ -54,6 +55,7 @@ h2 {
 
 .grey-text {
     font-size: 19pt;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 a{
@@ -62,6 +64,7 @@ a{
 
 footer {
     text-align: center;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .cont-footer {
@@ -84,4 +87,20 @@ background: white;
 margin: 0 auto;
 padding: 0 5%;
 padding-bottom: 3%;
+font-family: 'Roboto', sans-serif;
+}
+
+.headshot {
+    width: 45%;
+    border-radius: 25px;
+    border: solid #45454581 2px;
+}
+
+#cont-title{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.btn {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 15pt;
 }
