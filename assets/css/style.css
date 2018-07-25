@@ -105,6 +105,10 @@ font-family: 'Roboto', sans-serif;
     font-size: 15pt;
 }
 
+nav .sidenav-trigger i {
+    color: black;
+}
+
 @media only screen and (max-width: 600px) {
     nav .brand-logo {
         font-size: 10pt;
