@@ -63,9 +63,10 @@ a{
     color: inherit;
 }
 
-footer {
-    text-align: center;
+.page-footer { 
     font-family: 'Ubuntu', sans-serif;
+    background: white;
+    color: black;
 }
 
 .cont-footer {
@@ -122,3 +123,31 @@ nav .sidenav-trigger i {
     }
 }
 
+footer {
+    border-top: #454545 solid 4px;
+}
+
+.copycont {
+    color: black;
+    text-align: center;
+}
+
+.footIcon {
+    font-size: 12pt;
+}
+
+.socialIcon {
+    font-size: 21pt;
+}
+
+.socdiv{
+    margin-top: 50pt;
+}
+
+.mapcont {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
